@@ -1,0 +1,23 @@
+a {
+    text-decoration: none !important
+}
+
+li {
+    list-style: none;
+}
+
+html,
+body {
+    /* font-family: 'Montserrat', sans-serif !important; */
+    font-family: 'Varela Round', sans-serif !important;
+}
+
+.hero-bg-image {
+    background: url('https://images.unsplash.com/photo-1547127796-06bb04e4b315?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80') no-repeat center center /cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.after-hero {
+    margin-bottom: 11rem !important
+}
